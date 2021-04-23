@@ -1,0 +1,8 @@
+﻿{
+    "author" : "qht",
+    "date" : "2019/05/27",
+    "name" : "pluginA",
+    "version" : "1.0.0",
+    "des" : "这是一个插件A，按此方法加载插件B、C等",
+    "dependencies" : []
+}
